@@ -16,10 +16,10 @@ const config = {
   auth: {
     api: true,
     api_user: 'admin',
-    api_pass: 'password',
+    api_pass: 'KevinM',
   },
   trans: {
-    ffmpeg: '/usr/local/bin/ffmpeg',
+    ffmpeg: 'C:\\ffmpeg\\bin\\ffmpeg.exe',
     tasks: [
       {
         app: 'live',
